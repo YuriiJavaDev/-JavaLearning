@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 25 V0.1: Clothing Advisor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_25_V0.1) — This project simulates a simple weather assistant. It uses conditional branching to analyze temperature data and provide appropriate clothing recommendations.
 - [Task 24 V0.1: Cinema Access Control V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_24_V0.1) — This project simulates a cinema ticketing system. It introduces the fundamental concept of **Conditional Logic**, where the program executes different blocks of code based on a boolean condition (age verification).
 - [Task 23 V0.1: Digital Business Card V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_23_V0.1) — This project simulates a digital business card generator. It focuses on handling mixed data types (String and int) and demonstrates professional string manipulation.
 - [Task 22 V0.1: Cashier System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_22_V0.1) — This project simulates a simple cashier terminal. It focuses on basic arithmetic operations and handling multiple integer inputs sequentially.
