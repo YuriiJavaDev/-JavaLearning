@@ -1,1 +1,31 @@
-# -JavaLearning
+# 🎓 Java Learning Hub
+
+Welcome! This is the main navigator for my educational projects.
+
+## 📁 JavaBasics (Course 1)
+- [Task 21: Player Registration System V1.1](https://github.com/YuriiJavaDev/JavaBasics_Task_21_V1.1) — This project is a transitional milestone in Java learning journey. While the base task requires simple console input/output, this implementation elevates the solution into an **enterprise-ready architecture**.
+- [Task 20: Login System](https://github.com/YuriiJavaDev/JavaBasics_Task_20) — This project demonstrates how to handle user input in Java using the Scanner class to read and display a password from the keyboard.
+- [Task 19: Game Score Calculator](https://github.com/YuriiJavaDev/JavaBasics_Task_19) — This project demonstrates how to parse string-based numeric data (including negative values) into integers and perform arithmetic operations on the resulting data.
+- [Task 18: Movie Year Extractor](https://github.com/YuriiJavaDev/JavaBasics_Task_18) — This project demonstrates how to convert numeric data stored as a String into a primitive int type to enable mathematical operations.
+- [Task 17: Flight Tracker](https://github.com/YuriiJavaDev/JavaBasics_Task_17) — This project demonstrates string concatenation in Java by combining numeric flight data with destination text to create a complete status message.
+- [Task 16: Access Code Formatter](https://github.com/YuriiJavaDev/JavaBasics_Task_16) — This project demonstrates how to convert primitive numeric data types into string representations for data transmission or messaging purposes.
+- [Task 15: String data cleaning and manipulation](https://github.com/YuriiJavaDev/JavaBasics_Task_15) — This project focuses on data normalization using the String class. It simulates a real-world scenario where user-provided data (like a city name) contains unnecessary spaces and needs to be formatted.
+- [Task 14: Escaping a quote by Yurii Gagarin](https://github.com/YuriiJavaDev/JavaBasics_Task_14) — This project demonstrates the use of escaping characters in Java strings. It shows how to include special characters, such as double quotes, inside a String object literal without breaking the code structure.
+- [Task 13: User Profile Creation](https://github.com/YuriiJavaDev/JavaBasics_Task_13) — This project demonstrates string concatenation in Java. It shows how to combine multiple object types (String) into a single output using the + operator.
+- [Task 12: Message from the future](https://github.com/YuriiJavaDev/JavaBasics_Task_12) — This project focuses on the String class in Java. It demonstrates how to declare a variable of an object type, initialize it with a string literal containing a message "from the future", and print the stored character sequence to the console.
+- [Task 11: Hero Health Tracking](https://github.com/YuriiJavaDev/JavaBasics_Task_11) — This project simulates tracking a character's health in a game environment. It demonstrates the practical use of unary operators: increment (++) and decrement (--).
+- [Task 10: Prize Distribution Logic](https://github.com/YuriiJavaDev/JavaBasics_Task_10) — This project demonstrates the use of integer division and the modulo operator (%) in Java. It simulates a scenario where a set number of prizes must be distributed equally among teams, and the remainder is calculated.
+- [Task 09: Single-Line Variable Management](https://github.com/YuriiJavaDev/JavaBasics_Task_9) — This project demonstrates Java's ability to declare and initialize multiple variables of the same type in a single statement. While this approach increases compactness, it is explored here primarily for syntax understanding.
+- [Task 08: Bank Account Transactions](https://github.com/YuriiJavaDev/JavaBasics_Task_8) — This project simulates basic banking operations using integer variables. It demonstrates how to perform balance transfers between accounts and apply bonuses using fundamental arithmetic operations in Java.
+- [Task 07: Memory Allocation & Concatenation](https://github.com/YuriiJavaDev/JavaBasics_Task_7) — This project focuses on understanding the memory footprint of different primitive data types in Java. It demonstrates how to combine descriptive text with actual variable values using string concatenation.
+- [Task 06: String Manipulation & Immutability](https://github.com/YuriiJavaDev/JavaBasics_Task_6) — This project demonstrates how Java handles String variables and references. It explores the concept of object assignment and string immutability by creating a copy of a variable and modifying it independently.
+- [Task 05: Game Character Profile](https://github.com/YuriiJavaDev/JavaBasics_Task_5) — This project demonstrates the use of various Java primitive and reference data types. The goal was to create a profile for a game character by storing different types of information (level, gold, rating, and name) and displaying them in the console.
+- [Task 04: Compilation Error Analysis & Clean Code](https://github.com/YuriiJavaDev/JavaBasics_Task_4) — This project focuses on debugging a non-compilable Java program. The objective was to identify, analyze, and comment out lines that cause compilation errors or violate task constraints, ensuring the program runs without.
+- [Task 03: Code Blocking & Shortcuts](https://github.com/YuriiJavaDev/JavaBasics_Task_3) — This project focuses on the use of single-line comments (//) to control code execution. The primary goal was to demonstrate how to block the execution of all commands in a Java program so that it produces no output, as per the task requirements.
+- [Task 02: Phrase Assembly with Console Output](https://github.com/YuriiJavaDev/JavaBasics_Task_2) — This project demonstrates the difference between System.out.print() and System.out.println() methods in Java. The goal is to assemble phrases from individual words by controlling the cursor position on the console, ensuring that words appear on the same line or move to a new one as required.
+- [Task 01: Console Output Basics](https://github.com/YuriiJavaDev/JavaBasics_Task_1) — This is a foundational Java project designed to demonstrate basic console output operations. The goal of the task is to correctly use standard output streams to display mixed data types (integers and Unicode characters) on separate lines.
+
+## 💾 Databases and Backend (Course 2)
+- PostgreSQL integration (in progress).
+- ...
+- Multithreading and GitLab tasks (Petro).
