@@ -3,6 +3,8 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 36 V0.1: Vacation Planner Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_36_V0.1) — This project simulates a vacation feasibility check. It focuses on the **Precedence of Logical Operators**, demonstrating how Java evaluates complex boolean expressions containing both `||` (OR) and `&&` (AND) without explicit parentheses.
+
 - [Task 35 V0.1: Smart Thermostat Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_35_V0.1) — This project simulates the core logic of a smart thermostat. It focuses on **Range Validation**, using logical operators to check if a numeric value resides between defined inclusive boundaries (20°C to 25°C).
 - [Task 34 V0.1: Picnic Planner Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_34_V0.1) — This project simulates a decision-making algorithm for weekend planning. It focuses on **Advanced Logical Operators** to evaluate multiple boolean conditions simultaneously.
 - [Task 33 V0.1: Football Match Result Recorder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_33_V0.1) — This project simulates a basic sports scoring system. It demonstrates how to use **Relational Operators** to compare two numeric values and store the resulting truth value in a `boolean` variable.
