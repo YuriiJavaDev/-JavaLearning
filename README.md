@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 33 V0.1: Football Match Result Recorder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_33_V0.1) — This project simulates a basic sports scoring system. It demonstrates how to use **Relational Operators** to compare two numeric values and store the resulting truth value in a `boolean` variable.
 - [Task 32 V0.1: Boolean Fundamentals V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_32_V0.1) — This project introduces the **Boolean Primitive Type** in Java. It demonstrates how to store and display logical truth values, which serve as the foundation for conditional execution and decision-making in programming.
  
 - [Task 31 V0.1: Loyalty Program Discount Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_31_V0.1) — This project simulates a loyalty program logic. It utilizes **Nested Conditional Logic** to calculate specific discount percentages based on user demographics (age) and membership status (club card).
