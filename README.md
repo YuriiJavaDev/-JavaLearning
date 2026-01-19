@@ -3,6 +3,8 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 32 V0.1: Boolean Fundamentals V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_32_V0.1) — This project introduces the **Boolean Primitive Type** in Java. It demonstrates how to store and display logical truth values, which serve as the foundation for conditional execution and decision-making in programming.
+ 
 - [Task 31 V0.1: Loyalty Program Discount Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_31_V0.1) — This project simulates a loyalty program logic. It utilizes **Nested Conditional Logic** to calculate specific discount percentages based on user demographics (age) and membership status (club card).
 - [Task 30 V0.1: Conference Access Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_30_V0.1) — This project simulates a conference registration system. It utilizes **Complex Nested Conditionals** to perform high-level visitor filtering based on age and specialized invitation categories (VIP vs. GUEST).
 - [Task 29 V0.1: Exclusive Club Entry System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_29_V0.1) — This project simulates an entry control system for an exclusive club. It utilizes **Nested Conditional Logic** to validate a user's eligibility based on two factors: minimum age and specific residency (Prague).
