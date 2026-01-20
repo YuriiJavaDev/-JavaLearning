@@ -2,7 +2,7 @@
 
 Welcome! This is the main navigator for my educational projects.
 
-## 📁 JavaBasics (Course 1)
+# 📁 JavaBasics (Course 1)
 - [Task 43 V0.1: Amusement Park Ticketing System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_43_V0.1) — This project implements a multi-tier age categorization logic for an amusement park. It utilizes **Nested Ternary Operators** to evaluate four distinct age groups within a single expression.
 - [Task 42 V0.1: Dynamic Greeting System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_42_V0.1) — This project implements a simple time-aware greeting mechanism. It utilizes the **Ternary Operator** to evaluate the current hour and select between two different greeting strings ("Good morning" or "Good day").
 - [Task 41 V0.1: Online Store Order Parity Checker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_41_V0.1) — This project simulates a basic order sorting mechanism for an e-commerce platform. It utilizes the **Ternary Operator** to perform a parity check on order numbers, classifying them as either "Even" or "Odd".
@@ -50,15 +50,15 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 03: Code Blocking & Shortcuts](https://github.com/YuriiJavaDev/JavaBasics_Task_3) — This project focuses on the use of single-line comments (//) to control code execution. The primary goal was to demonstrate how to block the execution of all commands in a Java program so that it produces no output, as per the task requirements.
 ---
 
-# Screen output
+## Console output
 - [Task 02: Phrase Assembly with Console Output](https://github.com/YuriiJavaDev/JavaBasics_Task_2) — This project demonstrates the difference between System.out.print() and System.out.println() methods in Java. The goal is to assemble phrases from individual words by controlling the cursor position on the console, ensuring that words appear on the same line or move to a new one as required.
 - [Task 01: Console Output Basics](https://github.com/YuriiJavaDev/JavaBasics_Task_1) — This is a foundational Java project designed to demonstrate basic console output operations. The goal of the task is to correctly use standard output streams to display mixed data types (integers and Unicode characters) on separate lines.
 ---
 
-## 💾 Databases and Backend (Course 2)
+# 💾 Databases and Backend (Course 2)
 - PostgreSQL integration (in progress).
 - ...
 - Multithreading and GitLab tasks (Petro).
 
-## 🎨 Credits
+# 🎨 Credits
 - Social preview illustration found via open sources.
