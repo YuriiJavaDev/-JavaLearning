@@ -4,6 +4,9 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics (Course 1)
 
+## The while loop: introduction and nuances of its operation.
+
+- [Task 44 V0.1: Spaceship Launch V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_44_V0.1) — This project simulates a spaceship ignition sequence. It utilizes a **While Loop** to perform a controlled reverse countdown from a starting value to one, followed by a launch signal.
 ---
 
 ## Ternary operator in Java: concise conditions and nuances regarding Clean Code.
