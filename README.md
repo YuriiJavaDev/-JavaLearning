@@ -1,4 +1,4 @@
-# 🎓 Java Learning Hub
+# 🎓 Java Learning
 
 Welcome! This is the main navigator for my educational projects.
 
