@@ -12,10 +12,10 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## The "for" loop: introduction and nuances of work.
-* **Nested for-loops: working with 2D grids.**
+🧩 **Nested for-loops: working with 2D grids.**
 - [Task 57 V0.1: Radar Coordinate System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_57_V0.1) — This project simulates a radar scanning grid by generating a 3x4 coordinate table. It utilizes **nested for-loops** to iterate through rows (i) and columns (j), outputting the precise position of each cell in an `i,j` format.
 
-* **Single-level Iterations: flow control and sequence management.**
+🧩 **Single-level Iterations: flow control and sequence management.**
 - [Task 51 V0.1: Coordinate Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_51_V0.1) — This project simulates the tracking of two objects moving in opposite directions. It utilizes an advanced **For Loop** structure where two variables are initialized, updated, and evaluated simultaneously within a single loop header.
 - [Task 50 V0.1: Product Cost Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_50_V0.1) — This project implements a calculation engine for a dynamic pricing model. In this scenario, the price of an item is directly proportional to its position in the sequence (e.g., the 1st item costs 1, the 2nd costs 2, etc.). It utilizes a **For Loop** to aggregate the total cost for a set number of products (N).
 - [Task 49 V0.1: Train Seating V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_49_V0.1) — This project simulates the identification of even-numbered seats in a train carriage. It utilizes a **For Loop** to iterate through a range of numbers (0 to 10) and incorporates an **If Statement** with the **Modulo Operator (%)** to filter and display only even values.
