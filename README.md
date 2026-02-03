@@ -3,6 +3,11 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Numbers and Symbols in Java.
+- [Task 61 V0.1: Hero Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_61_V0.1) — This project simulates the creation of a base inventory for an RPG (Role-Playing Game) hero. It demonstrates how to choose and declare appropriate **numeric primitive types** in Java based on the nature and range of the data being stored.
+- [Task 60 V0.1: Hero Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_60_V0.1) — This project simulates the creation of a base inventory for an RPG (Role-Playing Game) hero. It demonstrates how to choose and declare appropriate **numeric primitive types** in Java based on the nature and range of the data being stored.
+---
+
 ## The "do-while" loop: introduction and nuances of work.
 - [Task 56 V1.1: Daily Sales Tracker V1.1](https://github.com/YuriiJavaDev/JavaBasics_Task_56_V1.1) — An enhanced version of the sales tracking utility. This iteration introduces advanced flow control using an infinite loop (`while(true)`), demonstrating how to selectively process data using `continue` to skip insignificant entries (zeros) and `break` to terminate the sequence.
 - [Task 56 V0.1: Daily Sales Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_56_V0.1) — This application simulates a point-of-sale system that records daily transactions. It aggregates multiple sales entries into a single total. The program utilizes a sentinel-controlled loop where a negative value serves as the termination signal for the workday.
