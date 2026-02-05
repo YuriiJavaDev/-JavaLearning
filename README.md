@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Rounding and formatting numbers.
+- [Task 72 Laser Calibration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_72_V0.1) — This project simulates resource management for space colonization. It focuses on converting high-precision engineering estimates into actionable logistics data by using the **Math.round** method to determine the nearest whole number of materials needed.
+---
+
 ## Accuracy issues and special values.
 - [Task 71 Laser Calibration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_71_V0.1) — This project simulates the calibration process of a high-precision laser system. It demonstrates a critical engineering practice in software development: using a **tolerance (epsilon)** to compare floating-point values, ensuring that minor numerical fluctuations do not cause logic errors.
 - [Task 70 Mystic Numbers V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_70_V0.1) — This project simulates an exploration into undefined mathematical territories. It demonstrates how Java's `double` type handles operations that do not result in a real number, specifically the square root of a negative value, resulting in the **NaN** (Not a Number) constant.
