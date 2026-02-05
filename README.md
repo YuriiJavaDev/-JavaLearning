@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Explicit and Implicit Type Casting in Java.
+- [Task 77 Spy Cryptography V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_77_V0.1) — This project simulates a cryptographic mission where characters are encoded into numbers and decoded back. It demonstrates the internal representation of the **char** data type in Java as a 16-bit Unicode integer and explores both implicit (automatic) and explicit type casting.
 - [Task 76 Warehouse Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_76_V0.1) — This project simulates a warehouse calculation where raw material weight must be converted into a count of finished goods. It highlights the use of **explicit type casting** in Java to perform truncation, effectively discarding fractional data to find the number of whole units available.
 ---
 
