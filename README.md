@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to Arrays.
+- [Task 81 Fantasy Favorite Languages List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_81_V0.1) — This project simulates a simple blog entry preparation where a list of favorite programming languages is stored in a fixed-size array. The primary focus is understanding how to retrieve the total capacity of an array using the built-in `length` property.
 - [Task 80 Fantasy Inventory System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_80_V0.1) — This project simulates a basic inventory system for a fantasy game. It illustrates the fundamental concepts of array declaration, memory allocation for a specific capacity, and the use of zero-based indexing to store and retrieve data.
 ---
 
