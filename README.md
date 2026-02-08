@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Introduction to Arrays.
+- [Task 80 Fantasy Inventory System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_80_V0.1) — This project simulates a basic inventory system for a fantasy game. It illustrates the fundamental concepts of array declaration, memory allocation for a specific capacity, and the use of zero-based indexing to store and retrieve data.
+---
+
 ## Explicit and Implicit Type Casting in Java.
 - [Task 79 Academic Performance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_79_V0.1) — This project focuses on calculating a student's **average score** from mixed numeric sources. It demonstrates how to maintain precision during division by using `double` literals and how to truncate the final result for administrative reporting. 
 - [Task 78 Weather Sensor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_78_V0.1) — This project simulates a data overflow scenario in a legacy weather sensor. It investigates the behavior of **narrowing primitive conversion** when an `int` value exceeds the 8-bit capacity of a `byte`, leading to unexpected results due to bit truncation and the two's complement representation.
