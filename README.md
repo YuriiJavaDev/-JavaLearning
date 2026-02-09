@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Basic operations with one-dimensional arrays.
+- [Task 93 Palindrome Checker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_93_V0.1) — This project implements a palindrome check for character arrays. A palindrome is a sequence that reads the same forwards and backwards. This specific task demonstrates the **Array Reversal and Comparison** strategy.
 - [Task 92 Array Fill Demonstration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_92_V0.1) — This project demonstrates the process of initializing an array and populating all its elements with a single constant value. It highlights the efficiency of using loops for bulk data assignment compared to manual entry.
 - [Task 91 Smart Home Temperature Analysis V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_91_V0.1) — This project simulates a data processing module for a "Smart Home" system. It implements an algorithm to find the maximum value within a set of temperature readings. This pattern is fundamental for monitoring peak loads, overheating, or any threshold-based alerts.
 - [Task 90 Shopping Cart Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_90_V0.1) — This project simulates a basic checkout system for an online store. It focuses on initializing an array with predefined item prices and performing a mathematical summation of its contents to determine the total cost. 
