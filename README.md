@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Array of counters and totalizers.
+- [Task 103 Customer Purchase Aggregator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_103_V0.1) — This project automates the calculation of total expenditures for a group of 4 clients. It processes a complex 2D data structure representing daily transactions and aggregates them into a consolidated report. This simulation mirrors real-world billing systems where multiple entries must be summed per user account.
 - [Task 102 Letter Frequency Counter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_102_V0.1) — This project implements a frequency analysis tool for a specific set of characters ('a', 'b', 'c'). It processes a character array and uses a separate integer array to track how many times each character appears, demonstrating efficient data categorization logic.
 ---
 
