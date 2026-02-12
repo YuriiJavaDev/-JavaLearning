@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Declaration and invocation of methods, parameters.
+- [Task 109 HR Profile Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_109_V0.1) — This project simulates an automated system for managing employee records in an HR department. It demonstrates advanced code organization by separating responsibilities into different packages and classes, following the Single Responsibility Principle.
 - [Task 108 Store Cashier Automation V0.1 V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_108_V0.1_V0.2) — This project demonstrates two evolutionary steps of a store cashier automation system. Version 1 provides a quick, direct calculation, while Version 2 introduces functional decomposition by separating data calculation from the presentation layer.
 - [Task 107 Personal Greeter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_107_V0.1) — This project simulates a personal greeting feature for an interactive application. It focuses on creating a specialized function that addresses users by their name, demonstrating how to implement static methods with parameters to enhance user interaction.
 ---
