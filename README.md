@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Passing parameters by value and by reference.
+- [Task 116 Bonus List Swap Experiment V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_116_V0.1) — This project explores Java's memory model, specifically focusing on how object references are passed to methods. It demonstrates that while method calls can modify the internal state of an object (like an array's elements), reassigning the reference itself inside the method has no effect on the original caller's reference.
 - [Task 115 Robot Trajectory Reset V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_115_V0.1) — This project simulates a robot control system that manages movement trajectories. It specifically demonstrates how Java handles array references, allowing a method to permanently modify the state of an array defined in a different layer of the application.
 ---
 
