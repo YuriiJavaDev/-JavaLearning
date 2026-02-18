@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Basic String methods.
+- [Task 134 Product Filter System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_134_V0.1) — An educational project demonstrating conditional string processing. It checks if a product name meets specific criteria (starts with 'E') and generates a 3-character abbreviation if the condition is met.
 - [Task 133 Dynamic String Surgeon V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_133_V0.1) — An advanced look at substring extraction. Instead of hardcoding indices, this project demonstrates how to programmatically find the start and end positions of a fragment, making the code resilient to changes in the source string.
 - [Task 132 Substring Search Locator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_132_V0.1) — An educational project demonstrating how to find the position of a specific word within a string using the `indexOf()` method. This is a fundamental operation for search engines and text processing applications.
 - [Task 131 Secret Character Extraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_131_V0.1) — An educational project focused on string manipulation. It demonstrates how to retrieve a specific character from a string using its index, highlighting that Java uses zero-based indexing.
