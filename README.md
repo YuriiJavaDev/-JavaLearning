@@ -4,6 +4,8 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Access modifiers, variable scope.
+- [Task 121 Box Factory Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_121_V0.1) — This project demonstrates the use of the `this` keyword in Java to resolve naming conflicts between instance variables and method parameters. 
+The implementation follows a strict decoupled architecture with meaningful class naming to ensure that each component's purpose is clear.
 - [Task 120 Secure Bank Account Demo V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_120_V0.1) — This project demonstrates strict **encapsulation** — one of the core principles of object-oriented programming. The account balance is completely hidden from external code (private field). Any modification of the balance is possible **only** through a controlled public method.
 - [Task 119 Football Village Registry System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_119_V0.1) — This project simulates an open village registry. It serves as a demonstration of **Public Field Access** within a professional N-Tier architecture. The system allows direct modification of a model's data while maintaining a strict pipeline for validation and formatting.
 ---
