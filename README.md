@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## String comparison: equals, equalsIgnoreCase, compareTo.
+- [Task 135 Product Filter System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_135_V0.1) — 
+---
+
 ## Basic String methods.
 - [Task 134 Product Filter System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_134_V0.1) — An educational project demonstrating conditional string processing. It checks if a product name meets specific criteria (starts with 'E') and generates a 3-character abbreviation if the condition is met.
 - [Task 133 Dynamic String Surgeon V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_133_V0.1) — An advanced look at substring extraction. Instead of hardcoding indices, this project demonstrates how to programmatically find the start and end positions of a fragment, making the code resilient to changes in the source string.
