@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## String comparison: equals, equalsIgnoreCase, compareTo.
+- [Task 136 Case-Insensitive Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_136_V0.1) — A fundamental educational project demonstrating how to compare two strings in Java while ignoring their case (uppercase vs. lowercase). This is essential for creating user-friendly interfaces where "Admin" and "admin" should be treated as the same identity.
 - [Task 135 Secure Login Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_135_V0.1) — An educational project demonstrating the difference between case-sensitive and case-insensitive string comparison in Java. This simulation mirrors real-world login procedures where emails are flexible but passwords are strict.
 ---
 
