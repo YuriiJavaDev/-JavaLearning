@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Wrapper types in Java.
+- [Task 143 Player Score Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_143_V0.1) — An educational project focused on parsing numerical data from strings. This is a common task when handling user input or reading data from text files where numeric values are initially represented as text.
+---
+
 ## StringBuilder and StringBuffer.
 - [Task 143 Advanced Text Editor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_143_V0.1) — This project demonstrates professional-grade text editing using `StringBuilder`. It covers the removal of specific fragments and the replacement of key terms, showcasing how to modify content efficiently without reallocating memory for new string objects.
 - [Task 142 Cryptographic Text Reverser V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_142_V0.1) — An educational project demonstrating the power of the `StringBuilder.reverse()` method. This tool is essential for tasks requiring character order inversion, such as palindrome checking or simple cryptographic decoding.
