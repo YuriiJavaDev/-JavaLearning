@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Wrapper types in Java.
+- [Task 147 Sensor Data NaN Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_147_V0.1) — An educational project focused on handling special floating-point values in Java. It demonstrates how to parse a "NaN" string into a double and verify it using built-in utility methods, which is crucial for processing telemetry and sensor data where invalid readings may occur.
 - [Task 146 Price Wrapper Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_146_V0.1) — An educational project exploring the transition between primitive types and their corresponding wrapper classes. It focuses on Autoboxing and Unboxing, which are essential when working with Java Collections or APIs that require objects instead of primitives.
 - [Task 145 Character Type Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_145_V0.1) — An educational project demonstrating character validation techniques in Java. It specifically focuses on identifying whether a given character belongs to the numeric digit category using the built-in utility methods of the Character wrapper class.
 - [Task 144 Player Score Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_144_V0.1) — An educational project focused on parsing numerical data from strings. This is a common task when handling user input or reading data from text files where numeric values are initially represented as text.
