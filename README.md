@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Wrapper types in Java.
+- [Task 145 Character Type Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_145_V0.1) — An educational project demonstrating character validation techniques in Java. It specifically focuses on identifying whether a given character belongs to the numeric digit category using the built-in utility methods of the Character wrapper class.
 - [Task 144 Player Score Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_144_V0.1) — An educational project focused on parsing numerical data from strings. This is a common task when handling user input or reading data from text files where numeric values are initially represented as text.
 ---
 
