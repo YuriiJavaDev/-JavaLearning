@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Classic Switch: Syntax and Examples.
+- [Task 152 Office Day Navigator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_152_V0.1) — This project demonstrates the use of the `switch` statement in Java. It serves as an efficient alternative to multiple `if-else-if` conditions when dealing with a single variable that can take several discrete values. The application maps numeric input to the corresponding day of the week.
+---
+
 ## Type inference and constants in Java.
 - [Task 151 Constant Protection Mechanism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_151_V0.1) — This project demonstrates the strict enforcement of the `final` modifier in Java. By attempting to reassign a value to a constant, we observe how the Java compiler prevents modifications, ensuring that critical parameters like server capacity remain fixed.
 - [Task 150 Global Constants and Static Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_150_V0.1) — This project demonstrates how to create a globally accessible constant in Java. By combining `public`, `static`, and `final` modifiers, we create a value that belongs to the class itself, remains immutable, and can be accessed from any other part of the application without instantiating the class.
